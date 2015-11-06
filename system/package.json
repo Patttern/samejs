@@ -1,0 +1,17 @@
+{
+  "name": "@@name",
+  "version": "@@version",
+  "description": "@@description",
+  "private": true,
+  "main": "app.js",
+  "author": "@@author",
+  "maintainers": [
+    {
+      "name": "@@author",
+      "email": "@@email"
+    }
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": @@packageDeps
+}

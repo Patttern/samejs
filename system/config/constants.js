@@ -1,3 +1,3 @@
 /**
- * Created by pattern on 06.11.15.
+ * Created by Egor Babenko (patttern@gmail.com) on 06.11.15.
  */

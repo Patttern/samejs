@@ -1,8 +1,8 @@
 .idea
 logs
 node_modules
-public
+public/*
+!public/uploads
 statics/*
-!statics/uploads
-bower.json
-package.json
+/bower.json
+/package.json
