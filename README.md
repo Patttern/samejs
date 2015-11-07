@@ -4,5 +4,5 @@
 Same JS
 
 ``
-sudo npm i -g gulp gulp-ignore gulp-rimraf gulp-replace-task gulp-install
+sudo npm i -g gulp gulp-ignore gulp-rimraf gulp-replace-task gulp-install gulp-live-server
 ``
